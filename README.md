@@ -4,7 +4,6 @@
 - I’m interested in <strong>Website Development</strong>
 - I’m <strong>currently</strong> learning :
   * HTML
-  * CSS
-  * Javascript
-  * Bootstrap & Tailwind
-  * React JS
+  * CSS : Bootstrap
+  * Python : Django
+  * Javascript : React JS
