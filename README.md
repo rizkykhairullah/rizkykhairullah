@@ -6,4 +6,4 @@
   * HTML
   * CSS : Bootstrap
   * Python : Django
-  * Javascript : React JS
+  * Javascript
