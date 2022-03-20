@@ -2,6 +2,7 @@
 Kamu bisa panggil saya **Rizky**, saya seorang mahasiswa dengan jurusan **Sistem Informasi** yang memiliki kertarikan tinggi pada dunia **Website Development dan UX Design**
 
 ## ⚡ Hubungi saya
+* [Website](https://rizky.pythonanywhere.com/)
 * [Instagram](https://www.instagram.com/mrkhairullah/)
 * [Linkedin](https://www.linkedin.com/in/muhammadrizkykhairullah/)
 
